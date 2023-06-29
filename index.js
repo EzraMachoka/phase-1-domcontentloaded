@@ -1,1 +1,4 @@
-// Your code goes here
+// Your code goes heredocument.addEventListener("DOMContentLoaded", function() {
+    document.addEventListener("DOMContentLoaded", function() {
+        document.getElementById('text').innerHTML = "This is really cool!"
+      })
